@@ -1,0 +1,17 @@
+ program that prompts the user for two times (as HH:MM:SS)
+ displays the total number of seconds for each time, adds them together, and displays the new time in HH:MM:SS format. 
+
+Note: new time should be display as a Clock, in a 24 hour format. 
+You do not have to track the 'roll over' days.
+
+Example output: 
+
+Enter the first time (HH:MM:SS): 05:15:19
+
+Enter the second time (HH:MM:SS): 06:12:45
+
+first time in seconds:  18919      second time in seconds:  22365
+
+New Time: 11:28:04
+
+Again? (y/n): Y
